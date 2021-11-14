@@ -1,6 +1,6 @@
-- 👋 Hi, We are [AHT Global](https://ahtglobal.com/)
-- 👀 AHT Global is a premier technology design firm with residential, marine, and commercial divisions.
-- 📫 How to reach us: 
+- 👋  Hi, We are [AHT Global](https://ahtglobal.com/)
+- 👀  AHT Global is a premier technology design firm with residential, marine, and commercial divisions.
+- 📫  How to reach us: 
   - Miami: [(305) 593-1965](tel:+13055931965)
   - Naples: [(239) 231-1139](tel:+12392311139)
   - New York: [(212) 203-8633](tel:+2122038633)
